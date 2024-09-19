@@ -1,5 +1,5 @@
+![Hi! I'm Keren 👋 A driven Junior Developer ready to contribute, learn, and grow  Eager for my first role to build impactful solutions and make a difference!](https://github.com/user-attachments/assets/681cd853-913f-4ea6-84f0-77cf33ea3ee6)
 
-![Hi! I'm Keren 👋 A driven Junior Developer ready to contribute, learn, and grow  Eager for my first role to build impactful solutions and make a difference!](https://github.com/user-attachments/assets/4b36a624-26d9-4594-b56f-d687509af85c)
 
 ## Hello! I'm Keren 👋
 
