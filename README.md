@@ -1,10 +1,12 @@
-<p align="center">
-  <img src="https://github.com/keren-cohen/portfolio/blob/main/introGif.gif" alt="intro gif" title="intro gif" width="500" height="250" align="center"/>
-</p>
 
-# Hello! I'm Keren Cohen 👋
+![Hi! I'm Keren 👋 A driven Junior Developer ready to contribute, learn, and grow  Eager for my first role to build impactful solutions and make a difference!](https://github.com/user-attachments/assets/4b36a624-26d9-4594-b56f-d687509af85c)
 
-Computer Science B.Sc. graduate from the Academic College of Tel Aviv-Yafo, with a strong passion for solving complex problems and delivering high-quality code. Highly motivated by new technological challenges and eager to continually expand my skill set.
+## Hello! I'm Keren 👋
+
+- **Computer Science B.Sc. graduate** from the Academic College of Tel Aviv-Yafo.
+- Passionate about **solving complex problems** and delivering high-quality code.
+- Highly motivated by new **technological challenges**.
+- Eager to continually **expand my skill set**.
 ---
 
 ### 🖥️ Languages and Tools:
