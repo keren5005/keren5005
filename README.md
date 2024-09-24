@@ -22,11 +22,10 @@
 
 ---
 
-### 💯 Certificates: 
+## 💯 Certificates
 
-<p align="center">
-    <!-- Add certificates images here -->
-</p>
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-e0e374e4-8fc3-4a3b-9216-a3cd05d39bea.jpg?v=1727170398000" alt="Understanding TypeScript Certificate" width="400">
+
 
 ---
 
