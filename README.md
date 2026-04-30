@@ -19,12 +19,6 @@
 | **Operating Systems**                         | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)         |
 | **Gaming & Other**                           | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) |
 
-## 💯 Certificates
-
-<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-e0e374e4-8fc3-4a3b-9216-a3cd05d39bea.jpg?v=1727170398000" alt="Understanding TypeScript Certificate" width="400">
-
-
----
 
 ### 📬 Feel free to contact me:
 
