@@ -1,6 +1,3 @@
-![Hi! I'm Keren 👋 A driven Junior Developer ready to contribute, learn, and grow  Eager for my first role to build impactful solutions and make a difference!](https://github.com/user-attachments/assets/681cd853-913f-4ea6-84f0-77cf33ea3ee6)
-
-
 ## Hello! I'm Keren 👋
 
 **B.Sc. Computer Science** | Industry & Military Experience | 8200 Alumnus
